@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on a database-backed website that will help expand a person's music catalogue.
 
-🌱 I’m currently studying at The University of Sheffield in my third year for a Bachelor's degree.
+🌱 I’m currently studying at University for a Bachelor's degree.
 
 📈 This is not the end. Far from it! Still got more contributions to make, repositories to fill up and expertise to gain! Just wait..
 
