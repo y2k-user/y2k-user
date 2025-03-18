@@ -2,7 +2,7 @@
 
 🌱 I’m currently studying at the University of Sheffield for an Integrated Master's degree.
 
-🔭 I'm currently learning Python (Flask), Java, HTML, CSS, JavaScript.
+🔭 I'm currently learning Python (Flask), Java, HTML, CSS and JavaScript.
 
 💬 Ask me about
 - Music
