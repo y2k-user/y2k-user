@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently studying at the University of Sheffield for an Integrated Master's degree.
+🌱 I’m currently studying at The University of Sheffield for an Integrated Master's degree.
 
 🔭 I'm currently learning Python (Flask), Java, HTML, CSS and JavaScript.
 
